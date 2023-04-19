@@ -28,9 +28,9 @@
 
 *<h1>Sobre</h1>About*
 
-Mais um desafio no Frontend Mentor, com layout responsivo.
+Mais um desafio no Frontend Mentor, com layout responsivo e utilizando pela primeira vez grid do CSS. 
 
-One more challenge on Frontend Mentor, with responsive layout.
+One more challenge on Frontend Mentor, with responsive layout and using for the first time CSS grid.
 
 *<h1>Feito com</h1>Built with*
 
